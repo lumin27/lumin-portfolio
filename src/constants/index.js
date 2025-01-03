@@ -85,7 +85,7 @@ export const myProjects = [
       {
         id: 3,
         name: "Material UI",
-        path: "assets/materialui.png",
+        path: "/assets/materialui.png",
       },
       {
         id: 4,
