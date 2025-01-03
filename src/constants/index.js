@@ -92,6 +92,17 @@ export const myProjects = [
         name: "TypeScript",
         path: "/assets/typescript.png",
       },
+      {
+        id: 5,
+        name: "Prisma",
+        path: "/assets/prisma.png",
+      },
+      {
+        id: 6,
+        name: "PostgreSQL",
+        path: "/assets/postgresql.png",
+      },
+     
     ],
   },
   {

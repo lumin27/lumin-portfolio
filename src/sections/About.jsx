@@ -72,7 +72,7 @@ const About = () => {
                   {
                     lat: 40,
                     lng: -100,
-                    text: "Rjieka, Croatia",
+                    text: "I am here",
                     color: "white",
                     size: 15,
                   },
