@@ -102,7 +102,7 @@ const Projects = () => {
         <div
           className='border border-black-300 bg-black-300 rounded-lg 
         md:h-full h-96 '>
-          <Canvas>
+          <Canvas frameloop='demand'>
             <ambientLight intensity={Math.PI / 2} />
             <directionalLight position={(10, 10, 5)} />
 
