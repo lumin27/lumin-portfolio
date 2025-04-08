@@ -111,7 +111,7 @@ export const myProjects = [
       "From dynamic post creation to real-time interactions with reactions and comments, BlogSphere is optimized for performance, scalability, and user experience. Integrated with Cloudinary for seamless media management.",
     href: "https://blog-app-beta-six.vercel.app/",
     texture: "/textures/project/project2.mp4",
-    logo: "/assets/BlogSphere.png",
+    logo: "/assets/BlogSpheres.png",
     logoStyle: {
       backgroundColor: "#13202F",
       border: "0.2px solid #17293E",
